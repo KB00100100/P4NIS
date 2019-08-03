@@ -122,7 +122,7 @@ control MyEgress(inout headers hdr,
 
 control MyComputeChecksum(inout headers hdr, inout metadata meta) {
      apply {
-                /*ipv6首部无校验和字段，因此无需进行校验*/
+                /*ipv6棣栭儴鏃犳牎楠屽拰瀛楁锛屽洜姝ゆ棤闇�杩涜鏍￠獙*/
     }
 }
 
