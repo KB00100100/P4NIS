@@ -1,6 +1,8 @@
 # P4NIS
-This is the branch for the P4NIS wireless network. Currently, it includes some source codes.
+This is the branch for the P4NIS wireless network. Currently, it includes some source codes and experimental results.
 
+# Architecture
+![image](https://github.com/KB00100100/P4NIS/master/P4NIS_architecture.png)
 
 # run P4NIS 
 ## client
