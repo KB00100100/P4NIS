@@ -3,7 +3,8 @@ This is the branch for the P4NIS wireless network. Currently, it includes some s
 
 # Papers
 * G. Liu, W. Quan, N. Cheng, N. Lu, H. Zhang and X. Shen, "P4NIS: Improving network immunity against eavesdropping with programmable data planes," IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Toronto, ON, Canada, 2020, pp. 91-96, doi: 10.1109/INFOCOMWKSHPS50562.2020.9162975.
-* G. Liu et al., "Softwarized IoT Network Immunity Against Eavesdropping With Programmable Data Planes," in IEEE Internet of Things Journal, vol. 8, no. 8, pp. 6578-6590, 15 April15, 2021, doi: 10.1109/JIOT.2020.3048842.
+* G. Liu, W. Quan; N. Cheng; D. Gao; N. Lu; H. Zhang and X. Shen,  "Softwarized IoT Network Immunity Against Eavesdropping With Programmable Data Planes," in IEEE Internet of Things Journal, vol. 8, no. 8, pp. 6578-6590, 15 April15, 2021, doi: 10.1109/JIOT.2020.3048842.
+
 
 # Architecture
 ![image](https://github.com/KB00100100/P4NIS/blob/master/P4NIS_architecture.png)
